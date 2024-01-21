@@ -18,7 +18,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/rickyli1010/shareme">
+  <a href="https://github.com/rickyli1010/ecommerce_sanity_stripe">
     <img src="shareme_frontend/src/assets/logo.png" alt="Logo" width="304" height="63">
   </a>
 
@@ -27,14 +27,14 @@
   <p align="center">
     This is a Social Media application built with React, Tailwind & Sanity
     <br />
-    <a href="https://github.com/rickyli1010/shareme"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/rickyli1010/ecommerce_sanity_stripe"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://share-me-rl.netlify.app/">View Demo</a>
     ·
-    <a href="https://github.com/rickyli1010/shareme/issues">Report Bug</a>
+    <a href="https://github.com/rickyli1010/ecommerce_sanity_stripe/issues">Report Bug</a>
     ·
-    <a href="https://github.com/rickyli1010/shareme/issues">Request Feature</a>
+    <a href="https://github.com/rickyli1010/ecommerce_sanity_stripe/issues">Request Feature</a>
   </p>
 </div>
 
@@ -86,7 +86,7 @@ Shareme is a social media platform and visual discovery engine where users can d
 <!-- CLONE OR DOWNLOAD -->
 ## clone or download
 ```terminal
-$ git clone https://github.com/rickyli1010/shareme.git
+$ git clone https://github.com/rickyli1010/ecommerce_sanity_stripe.git
 $ yarn # or npm i
 ```
 
@@ -190,7 +190,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Ricky Li - rickyli0321@gmail.com
 
-Project Link: [https://github.com/rickyli1010/shareme](https://github.com/rickyli1010/shareme)
+Project Link: [https://github.com/rickyli1010/ecommerce_sanity_stripe](https://github.com/rickyli1010/ecommerce_sanity_stripe)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -199,19 +199,19 @@ Project Link: [https://github.com/rickyli1010/shareme](https://github.com/rickyl
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/rickyli1010/shareme.svg?style=for-the-badge
-[contributors-url]: https://github.com/rickyli1010/shareme/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/rickyli1010/shareme.svg?style=for-the-badge
-[forks-url]: https://github.com/rickyli1010/shareme/network/members
-[stars-shield]: https://img.shields.io/github/stars/rickyli1010/shareme.svg?style=for-the-badge
-[stars-url]: https://github.com/rickyli1010/shareme/stargazers
-[issues-shield]: https://img.shields.io/github/issues/rickyli1010/shareme.svg?style=for-the-badge
-[issues-url]: https://github.com/rickyli1010/shareme/issues
-[license-shield]: https://img.shields.io/github/license/rickyli1010/shareme.svg?style=for-the-badge
-[license-url]: https://github.com/rickyli1010/shareme/blob/main/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/rickyli1010/ecommerce_sanity_stripe.svg?style=for-the-badge
+[contributors-url]: https://github.com/rickyli1010/ecommerce_sanity_stripe/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/rickyli1010/ecommerce_sanity_stripe.svg?style=for-the-badge
+[forks-url]: https://github.com/rickyli1010/ecommerce_sanity_stripe/network/members
+[stars-shield]: https://img.shields.io/github/stars/rickyli1010/ecommerce_sanity_stripe.svg?style=for-the-badge
+[stars-url]: https://github.com/rickyli1010/ecommerce_sanity_stripe/stargazers
+[issues-shield]: https://img.shields.io/github/issues/rickyli1010/ecommerce_sanity_stripe.svg?style=for-the-badge
+[issues-url]: https://github.com/rickyli1010/ecommerce_sanity_stripe/issues
+[license-shield]: https://img.shields.io/github/license/rickyli1010/ecommerce_sanity_stripe.svg?style=for-the-badge
+[license-url]: https://github.com/rickyli1010/ecommerce_sanity_stripe/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/ricky1010
-[product-screenshot]: https://github.com/rickyli1010/shareme/assets/29339402/9f6b365a-c775-4905-8b4b-c9cfea152f53
+[product-screenshot]: https://github.com/rickyli1010/ecommerce_sanity_stripe/assets/29339402/9f6b365a-c775-4905-8b4b-c9cfea152f53
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
