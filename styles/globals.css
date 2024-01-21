@@ -108,6 +108,7 @@ span.text-red {
   transform: scale(1, 1);
   transition: transform 0.5s ease;
   color: #324d67;
+  max-width: 250px;
 }
 .product-card:hover {
   transform: scale(1.1, 1.1);
@@ -121,6 +122,7 @@ span.text-red {
 
 .product-name {
   font-weight: 500;
+  text-wrap: wrap;
 }
 .product-price {
   font-weight: 800;
@@ -242,6 +244,7 @@ span.text-red {
 }
 .footer-banner-image {
   position: absolute;
+  /* max-width: 450px; */
   /* top: -35%;
   left: 8%; */
   top: -25%;
