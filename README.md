@@ -18,19 +18,16 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/rickyli1010/ecommerce_sanity_stripe">
-    <img src="shareme_frontend/src/assets/logo.png" alt="Logo" width="304" height="63">
-  </a>
 
-<h3 align="center">ShareMe Social Media Application</h3>
+<h3 align="center">E-Commerce Application</h3>
 
   <p align="center">
-    This is a Social Media application built with React, Tailwind & Sanity
+    This is a e-commerce application built with React, Next, Sanity and Stripe
     <br />
     <a href="https://github.com/rickyli1010/ecommerce_sanity_stripe"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://share-me-rl.netlify.app/">View Demo</a>
+    <a href="https://ecommerce-sanity-stripe-opal-phi.vercel.app/">View Demo</a>
     ·
     <a href="https://github.com/rickyli1010/ecommerce_sanity_stripe/issues">Report Bug</a>
     ·
@@ -68,9 +65,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://share-me-rl.netlify.app/)
+[![Product Name Screen Shot][product-screenshot]](https://ecommerce-sanity-stripe-opal-phi.vercel.app/)
 
-Shareme is a social media platform and visual discovery engine where users can discover and save ideas for various interests. It allows users to create and manage collections of visual bookmarks, known as "pins," that can include images, videos, and other media. These pins are organized on personalized boards, and users can explore content created by others.
+This is a e-commerce website built with React, Next.js, Sanity and Stripe. The website content is controlled by Sanity CMS, and pull into UI dynamically. Check out process is intergrated with Stripe. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -79,7 +76,7 @@ Shareme is a social media platform and visual discovery engine where users can d
 ### Built With
 
 * [![React][React.js]][React-url]
-* [![Tailwind][Tailwindcss.com]][TailwindCSS-url]
+* [![Next][Next.js]][Next-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -95,11 +92,9 @@ $ yarn # or npm i
 ```terminal
 LICENSE
 package.json
-shareme_backend/
+.env (to create .env, check [prepare your secret session])
+sanity_ecommerce/
    package.json
-shareme_frontend/
-   package.json
-   .env (to create .env, check [prepare your secret session])
 ...
 ```
 
@@ -114,14 +109,13 @@ To get a local copy up and running follow these simple example steps.
 - [Node](https://nodejs.org/en/download/) 
 - [npm](https://nodejs.org/en/download/package-manager/)
 - [Sanity](https://www.npmjs.com/package/sanity)
-- [TailwindCSS](https://www.npmjs.com/package/tailwindcss)
 
 notice, you need client and server runs concurrently in different terminal session, in order to make them talk to each other
 
 ### Server-side usage(PORT: 3333)
 
 ```terminal
-$ cd shareme_backend   // go to server folder
+$ cd sanity_ecommerce   // go to server folder
 $ npm i       // npm install packages
 $ sanity start // run it locally
 ```
@@ -133,9 +127,10 @@ $ sanity start // run it locally
 run the script at the first level:
 
 Requires: 
-- Google API Token for Google Login
 - Sanity Project ID for connecting to Sanity
 - Sanity Token for Sanity Auth
+- Stripe Publishable Key
+- Stripe Secret Key
 
 ```terminal
 // in the root level
