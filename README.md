@@ -134,16 +134,16 @@ Requires:
 
 ```terminal
 // in the root level
-$ cd shareme_Frontend
-$ echo "REACT_APP_GOOGLE_API_TOKEN=YOUR_REACT_APP_GOOGLE_API_TOKEN" >> src/.env
-$ echo "REACT_APP_SANITY_PROJECT_ID=YOUR_REACT_APP_SANITY_PROJECT_ID" >> src/.env
-$ echo "REACT_APP_SANITY_TOKEN=YOUR_REACT_APP_SANITY_TOKEN" >> src/.env
+$ echo "NEXT_PUBLIC_SANITY_PROJECT_ID=YOUR_NEXT_PUBLIC_SANITY_PROJECT_ID" >> src/.env
+$ echo "NEXT_PUBLIC_SANITY_TOKEN=YOUR_NEXT_PUBLIC_SANITY_TOKEN" >> src/.env
+$ echo "NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY=YOUR_NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY" >> src/.env
+$ echo "NEXT_PUBLIC_STRIPE_SECRET_KEY=YOUR_NEXT_PUBLIC_STRIPE_SECRET_KEY" >> src/.env
 ```
 
 ### Start
 
 ```terminal
-$ cd shareme_frontend          // go to client folder
+// in the root level
 $ yarn # or npm i    // npm install packages
 $ npm run dev        // run it locally
 
