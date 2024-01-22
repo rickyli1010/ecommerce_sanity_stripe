@@ -65,7 +65,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://ecommerce-sanity-stripe-opal-phi.vercel.app/)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/rickyli1010/ecommerce_sanity_stripe/assets/29339402/1e499490-e64e-4f61-b3f4-d1e2904734fa)
+
 
 This is a e-commerce website built with React, Next.js, Sanity and Stripe. The website content is controlled by Sanity CMS, and pull into UI dynamically. Check out process is intergrated with Stripe. 
 
