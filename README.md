@@ -65,7 +65,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/rickyli1010/ecommerce_sanity_stripe/assets/29339402/1e499490-e64e-4f61-b3f4-d1e2904734fa)
+[![Product Name Screen Shot][product-screenshot]](https://ecommerce-sanity-stripe-opal-phi.vercel.app/)
 
 
 This is a e-commerce website built with React, Next.js, Sanity and Stripe. The website content is controlled by Sanity CMS, and pull into UI dynamically. Check out process is intergrated with Stripe. 
@@ -207,7 +207,7 @@ Project Link: [https://github.com/rickyli1010/ecommerce_sanity_stripe](https://g
 [license-url]: https://github.com/rickyli1010/ecommerce_sanity_stripe/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/ricky1010
-[product-screenshot]: https://github.com/rickyli1010/ecommerce_sanity_stripe/assets/29339402/9f6b365a-c775-4905-8b4b-c9cfea152f53
+[product-screenshot]: https://github.com/rickyli1010/ecommerce_sanity_stripe/assets/29339402/1e499490-e64e-4f61-b3f4-d1e2904734fa
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
